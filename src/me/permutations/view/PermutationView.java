@@ -6,9 +6,10 @@
 package me.permutations.view;
 
 import javax.swing.JButton;
+
+import javax.swing.JTextField;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
-import javax.swing.JTextField;
 
 /**
  *
